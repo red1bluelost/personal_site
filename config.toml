@@ -13,7 +13,7 @@ paginate = 5
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -37,21 +37,14 @@ paginate = 5
   # it's set to `true` by default
   # oneHeadingSize = false
 
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
-
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Micah Weston"
     subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    owner = "Micah Weston"
     keywords = ""
-    copyright = ""
+    copyright = "© 2021 by Micah Weston"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -59,7 +52,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Micah Weston"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -67,8 +60,20 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
+        weight = 1
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
+        weight = 4
 
