@@ -1,16 +1,17 @@
-baseURL = "http://example.org/"
+baseURL = "http://micahsweston.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "terminal"
-paginate = 1
+paginate = 2
 background = true
+assetDir = "static"
 
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "projects"
 
-  # ["orange", "blue", "red", "green", "pink"]
+  # ["orange", "blue", "red", "green", "pink"] my customs: ["purple"]
   themeColor = "purple"
 
   # if you set this to 0, only submenu trigger will be visible
@@ -42,13 +43,13 @@ background = true
   [languages.en]
     languageName = "English"
     title = "Micah Weston"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Personal Website"
     owner = "Micah Weston"
-    keywords = ""
+    keywords = "CS,CECS,Computer Engineering,Computer Engineering,Computer Science,Northeastern,Northeastern University,NEU,HPC"
     copyright = "© 2021 by Micah Weston"
     menuMore = "Show more"
     readMore = "Read more"
-    readOtherPosts = "Read other posts"
+    readOtherPosts = "Read about other projects"
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
 
