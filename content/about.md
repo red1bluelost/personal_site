@@ -3,4 +3,12 @@ title: "About"
 draft: true
 ---
 
-Did you ever hear the tragedy of Darth Plagueis The Wise? I thought not. It's not a story the Jedi would tell you. It's a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midichlorians to create life... He had such a knowledge of the dark side that he could even keep the ones he cared about from dying. The dark side of the Force is a pathway to many abilities some consider to be unnatural. He became so powerful... the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. Ironic. He could save others from death, but not himself.
+{{< imgwcap src="/img/test-plant.jpg" style="width: 90%;">}}
+Hello! My name is **Micah Weston** and I am an Honors Computer Engineering and Computer Science student at Northeastern University. I will be graduating May 2023 with a Bachelor of Science and two co-ops. After that I will complete a Master of Science in Computer Science by December 2023.
+
+At university, I am doing research on _Translation Lookaside Buffer (TLB)_ design to improve hit rates through the coalescing of contiguous address entries. This research has been possible through the mentoring I have received from grad students from the _NU Computer Architecture Research Lab_. 
+
+On top of research, I am the social media manager for _NU Motorsports_ and the treasurer for _NU Sound_. When I have the time, I love playing electric guitar and bass, taking care of my plants, and put various code and algorithms into Matt Godbolt\'s [Compiler Explorer.](https://godbolt.org/ "Compiler Explorer")
+
+Once I graduate, I hope to work on compilers or high performance computing. However, I have not completely ruled out becoming a guitarist in a metal band.
+{{< /imgwcap >}}
