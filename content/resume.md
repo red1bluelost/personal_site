@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-draft: true
+draft: false
 ---
 {{< center_text >}}
 # Highlights
