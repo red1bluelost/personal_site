@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-{{< imgwcap src="/img/test-plant.jpg" style="width: 90%;">}}
+{{< imgwcap src="/img/me.jpeg" style="width: 90%;">}}
 Hello! My name is **Micah Weston** and I am an Honors Computer Engineering and Computer Science student at Northeastern University. I will be graduating May 2023 with a Bachelor of Science and two co-ops. After that I will complete a Master of Science in Computer Science within a year.
 
 At university, I am doing research on _Translation Lookaside Buffer (TLB)_ design to improve hit rates through the coalescing of contiguous address entries. This research has been possible through the mentoring I have received from grad students from the _NU Computer Architecture Research Lab_. 
