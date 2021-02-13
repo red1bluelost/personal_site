@@ -1,4 +1,4 @@
-baseURL = "https://micahsweston.com/"
+baseURL = "https://www.micahsweston.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "terminal"
