@@ -6,7 +6,9 @@ draft: false
 
 [(702) 816-6833](tel:7028166833 "Micah Weston's Phone Number")
 
-[weston.m@northeastern.edu](mailto:weston.m@northeastern.edu "Micah Weston's Email")
+[micahsweston@gmail.com](mailto:micahsweston@gmail.com "Micah Weston's Email")
+
+[weston.m@northeastern.edu](mailto:weston.m@northeastern.edu "Micah Weston's School Email")
 
 [LinkedIn](https://www.linkedin.com/in/micah-s-weston/ "Micah Weston's LinkedIn")
 {{< image src="/img/contact/linkedin.png" link="https://www.linkedin.com/in/micah-s-weston/" alt="LinkedIn" >}}

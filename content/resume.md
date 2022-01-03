@@ -22,4 +22,4 @@ b3_desc="Developed C++ code for a digital color organ ran from an ESP32 NodeMCU.
 
 {{< linkboxes width="60%"
 box0="Resume" box0_c="download" box0_href="/Resume-Micah-Weston.pdf" box0_target="_blank" 
-box0_extra="Last Updated: 2021/12/28">}}
+box0_extra="Last Updated: 2022/01/02">}}
