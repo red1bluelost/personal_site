@@ -25,4 +25,4 @@ b4_desc="Validated hardware function on embedded processors controlling multiple
 
 {{< linkboxes width="60%"
 box0="Resume" box0_c="download" box0_href="/Resume-Micah-Weston.pdf" box0_target="_blank" 
-box0_extra="Last Updated: 2022/01/14">}}
+box0_extra="Last Updated: 2022/07/11">}}
