@@ -4,9 +4,13 @@ draft: false
 ---
 ## Thank you for the interest
 
-[micahsweston@gmail.com](mailto:micahsweston@gmail.com "Micah Weston's Email")
+### Emails
 
-[weston.m@northeastern.edu](mailto:weston.m@northeastern.edu "Micah Weston's School Email")
+micah <<no space>> s <<no-space>> weston <<at-sign>> gmail <<dot>> com
+
+weston <<dot>> m <<at-sign>> northeastern <<dot>> edu
+
+### Links
 
 [LinkedIn](https://www.linkedin.com/in/micah-s-weston/ "Micah Weston's LinkedIn")
 {{< image src="/img/contact/linkedin.png" link="https://www.linkedin.com/in/micah-s-weston/" alt="LinkedIn" >}}
