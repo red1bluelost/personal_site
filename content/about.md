@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-{{< imgwcap src="/img/me.jpeg" style="width: 90%;">}}
+{{< imgwcap src="/img/me.jpg" style="width: 90%;">}}
 Hello! My name is **Micah Weston** and I use they/she pronouns. I am an Honors Computer Engineering and Computer Science
 student at Northeastern University on tract to graduate May 2023 with a Bachelor of Science and two co-ops. After that I
 will complete a Master of Science in Computer Science within a year.
